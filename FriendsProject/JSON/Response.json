@@ -1,0 +1,24 @@
+{
+    "friends" : [
+        {
+            "name": "jack",
+            "email": "jack@gmail.com"
+        },
+        {
+            "name": "jill",
+            "email": "jill@gmail.com"
+        },
+        {
+            "name": "jane",
+            "email": "jane@gmail.com"
+        },
+        {
+            "name": null,
+            "email": "hello@gmail.com"
+        },
+        {
+            "name": "delilah",
+            "email": null
+        }
+    ]
+}
